@@ -134,3 +134,15 @@ GitHub: https://github.com/Gabriel24nt
 <p align="center">
   <strong>STRATOS — Intelligence. Analysis. Strategic Decisions.</strong>
 </p>
+
+
+<p align="center">
+  <a href="https://stratos-meridian.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_STRATOS-Live_Demo-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Gabriel24nt/STRATOS">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-GitHub-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
